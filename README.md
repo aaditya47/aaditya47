@@ -13,6 +13,8 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaditya47)
 
 <h3 align="center">Connect with me!</h3>
+<div style="display: flex; justify-content: center;">
 <a href="https://www.linkedin.com/in/aadityaumashankar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt=Aaditya Umashankar on LinkedIn" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aaditya._47/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt=aaditya._47 on Instagram" height="30" width="40" /></a>
 <a href="https://www.discord.gg/aaditya47#4679" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt=aaditya47#4679 on Discord" height="30" width="40" /></a>
+</div>
