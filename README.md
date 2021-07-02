@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Aaditya</h1>
 <h3 align="center">MERN stack developer 💻 | Photographer 📷 | Machine Learning Enthusiast 🖥️🧠</h3>
 
+<p align="center"><a href="aaditya47.github.io/portfolio">Check out</a> my portfolio site</p>
+
 <p align=center> <img src="https://komarev.com/ghpvc/?username=aaditya47&style=flat-square" /> </p>
 
 - 🌱 I’m currently learning **GraphQL and Azure**
