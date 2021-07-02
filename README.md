@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋 I'm Aaditya</h1>
+<h3 align="center">MERN stack developer 💻 | Photographer 📷 | Machine Learning Enthusiast 🖥️🧠</h3>
 
-<!--
-**aaditya47/aaditya47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align=center> <img src="https://komarev.com/ghpvc/?username=aaditya47&style=flat-square" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **GraphQL and Azure**
+- 💬 Ask me about **Python, Express, Data Structures and Algorithms**
+- 📫 How to reach me: **uaaditya759@gmail.com**
+- 😄 Pronouns: **He/Him**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaditya47)
+
+<h3 align="center">Connect with me!</h3>
+<a href="https://www.linkedin.com/in/aadityaumashankar/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt=Aaditya Umashankar on LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aaditya._47/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt=aaditya._47 on Instagram" height="30" width="40" /></a>
+<a href="https://www.discord.gg/aaditya47#4679"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt=aaditya47#4679 on Discord" height="30" width="40" /></a>
