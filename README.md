@@ -10,13 +10,13 @@
 - 📫 How to reach me: **uaaditya759@gmail.com**
 - 😄 Pronouns: **He/Him**
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaditya47)
-
-<div align=right>
+<div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya47&langs_count=20&theme=highcontrast&layout=compact" />
     </a>
 </div>
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaditya47)
 
 <h3 align="center">Connect with me!
 <div style="display: flex; justify-content: center;">
