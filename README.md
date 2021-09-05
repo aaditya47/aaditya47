@@ -5,7 +5,7 @@
 
 <p align=center> <img src="https://komarev.com/ghpvc/?username=aaditya47&style=flat-square" /> </p>
 
-- 🌱 I’m currently learning **GraphQL and Azure**
+- 🌱 I’m currently learning **Nest, GraphQL and Azure**
 - 💬 Ask me about **Python, Express, Data Structures and Algorithms**
 - 📫 How to reach me: **uaaditya759@gmail.com**
 - 😄 Pronouns: **He/Him**
