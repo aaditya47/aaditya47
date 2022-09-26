@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Aaditya</h1>
-<h3 align="center">Software Engineering @WIZ! 💻 | Photographer 📷 | Machine Learning Enthusiast 🖥️🧠</h3>
+<h3 align="center">Software Engineer @WIZ! 💻 | Photographer 📷 | Machine Learning Enthusiast 🖥️🧠</h3>
 
 <p align="center"><a href="aaditya47.github.io/portfolio">Check out</a> my portfolio site</p>
 
