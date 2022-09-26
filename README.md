@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋 I'm Aaditya</h1>
-<h3 align="center">MERN stack developer 💻 | Photographer 📷 | Machine Learning Enthusiast 🖥️🧠</h3>
+<h3 align="center">Software Engineering @WIZ! 💻 | Photographer 📷 | Machine Learning Enthusiast 🖥️🧠</h3>
 
 <p align="center"><a href="aaditya47.github.io/portfolio">Check out</a> my portfolio site</p>
 
 <p align=center> <img src="https://komarev.com/ghpvc/?username=aaditya47&style=flat-square" /> </p>
 
-- 🌱 I’m currently learning **Nest, GraphQL and Azure**
+- 🌱 I’m currently learning **Golang, React JS, AWS**
 - 💬 Ask me about **Python, Express, Data Structures and Algorithms**
 - 📫 How to reach me: **uaaditya759@gmail.com**
 - 😄 Pronouns: **He/Him**
